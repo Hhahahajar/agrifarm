@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\agrifarm_backend.props" />
+</Project>

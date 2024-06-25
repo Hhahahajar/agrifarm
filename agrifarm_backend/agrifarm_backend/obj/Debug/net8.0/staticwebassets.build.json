@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "59XYm1hG2Ol7YXYIJkTNCfnwrD9hF3K7axPBCGDrGXs=",
+  "Source": "agrifarm_backend",
+  "BasePath": "_content/agrifarm_backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
